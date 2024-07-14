@@ -1,4 +1,4 @@
-package com.alura.literalura.principalprueba;
+package com.alura.literalura;
 
 import java.util.ArrayList;
 import java.util.List;
